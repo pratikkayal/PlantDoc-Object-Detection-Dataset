@@ -1,0 +1,50 @@
+<annotation>
+	<folder> raspberry leaf </folder>
+	<filename>muscari-raspberry-leaf-isolated-white-background-31953078.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ raspberry leaf /muscari-raspberry-leaf-isolated-white-background-31953078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>131</ymin>
+			<xmax>1005</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Raspberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>979</xmin>
+			<ymin>289</ymin>
+			<xmax>1242</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Raspberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>470</ymin>
+			<xmax>998</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

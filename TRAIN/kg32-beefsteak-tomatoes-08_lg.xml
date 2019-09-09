@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>kg32-beefsteak-tomatoes-08_lg.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /kg32-beefsteak-tomatoes-08_lg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>430</width>
+		<height>258</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>43</ymin>
+			<xmax>345</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf bacterial spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>104</ymin>
+			<xmax>245</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

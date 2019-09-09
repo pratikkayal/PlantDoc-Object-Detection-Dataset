@@ -1,0 +1,26 @@
+<annotation>
+	<folder> grape leaf black rot </folder>
+	<filename>03gb.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ grape leaf black rot /03gb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>479</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape leaf black rot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>24</ymin>
+			<xmax>470</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>buckinghamshire-speen-garden-cedar-apple-rust-on-apple-underside-of-F5D3RD.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /buckinghamshire-speen-garden-cedar-apple-rust-on-apple-underside-of-F5D3RD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>13</ymin>
+			<xmax>1195</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>217</ymin>
+			<xmax>1104</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>461</ymin>
+			<xmax>1236</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+</annotation>

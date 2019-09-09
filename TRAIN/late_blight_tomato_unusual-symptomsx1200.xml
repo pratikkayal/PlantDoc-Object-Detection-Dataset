@@ -1,0 +1,88 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>late_blight_tomato_unusual-symptomsx1200.jpg</filename>
+    <size>
+        <width>1200</width>
+        <height>900</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>12</xmin>
+            <ymin>191</ymin>
+            <xmax>389</xmax>
+            <ymax>839</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>152</xmin>
+            <ymin>20</ymin>
+            <xmax>472</xmax>
+            <ymax>680</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>440</xmin>
+            <ymin>250</ymin>
+            <xmax>771</xmax>
+            <ymax>677</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>355</ymin>
+            <xmax>1164</xmax>
+            <ymax>834</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>788</xmin>
+            <ymin>114</ymin>
+            <xmax>1190</xmax>
+            <ymax>335</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>478</xmin>
+            <ymin>91</ymin>
+            <xmax>886</xmax>
+            <ymax>435</ymax>
+        </bndbox>
+    </object>
+</annotation>

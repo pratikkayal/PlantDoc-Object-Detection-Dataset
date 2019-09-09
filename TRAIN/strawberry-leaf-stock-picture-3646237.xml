@@ -1,0 +1,50 @@
+<annotation>
+	<folder> strawberry leaf	</folder>
+	<filename>strawberry-leaf-stock-picture-3646237.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ strawberry leaf	/strawberry-leaf-stock-picture-3646237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>544</ymin>
+			<xmax>1179</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>518</ymin>
+			<xmax>667</xmax>
+			<ymax>1111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>77</ymin>
+			<xmax>976</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>

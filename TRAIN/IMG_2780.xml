@@ -1,0 +1,182 @@
+<annotation>
+	<folder> strawberry leaf	</folder>
+	<filename>IMG_2780.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ strawberry leaf	/IMG_2780.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2019</xmin>
+			<ymin>2397</ymin>
+			<xmax>2836</xmax>
+			<ymax>3363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3336</xmin>
+			<ymin>1611</ymin>
+			<xmax>4191</xmax>
+			<ymax>2529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3696</xmin>
+			<ymin>1203</ymin>
+			<xmax>4465</xmax>
+			<ymax>1774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4137</xmin>
+			<ymin>1756</ymin>
+			<xmax>5094</xmax>
+			<ymax>2570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2223</xmin>
+			<ymin>1966</ymin>
+			<xmax>3213</xmax>
+			<ymax>2518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1475</xmin>
+			<ymin>1999</ymin>
+			<xmax>2313</xmax>
+			<ymax>2856</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>609</xmin>
+			<ymin>2132</ymin>
+			<xmax>1361</xmax>
+			<ymax>2875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>1428</ymin>
+			<xmax>1218</xmax>
+			<ymax>2099</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2432</xmin>
+			<ymin>1077</ymin>
+			<xmax>3297</xmax>
+			<ymax>1890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2500</xmin>
+			<ymin>484</ymin>
+			<xmax>3248</xmax>
+			<ymax>1223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1823</xmin>
+			<ymin>545</ymin>
+			<xmax>2581</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>861</ymin>
+			<xmax>1623</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1339</xmin>
+			<ymin>374</ymin>
+			<xmax>1910</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>1894</ymin>
+			<xmax>899</xmax>
+			<ymax>2609</ymax>
+		</bndbox>
+	</object>
+</annotation>

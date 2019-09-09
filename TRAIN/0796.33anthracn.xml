@@ -1,0 +1,38 @@
+<annotation>
+	<folder> leaf blight of corn </folder>
+	<filename>0796.33anthracn.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ leaf blight of corn /0796.33anthracn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>313</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn leaf blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>20</ymin>
+			<xmax>432</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Corn leaf blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>172</ymin>
+			<xmax>432</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

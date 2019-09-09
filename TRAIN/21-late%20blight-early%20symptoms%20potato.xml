@@ -1,0 +1,74 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>21-late%20blight-early%20symptoms%20potato.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/21-late%20blight-early%20symptoms%20potato.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>2032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1668</xmin>
+			<ymin>840</ymin>
+			<xmax>2512</xmax>
+			<ymax>1572</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1225</xmin>
+			<ymin>144</ymin>
+			<xmax>1921</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>974</ymin>
+			<xmax>1242</xmax>
+			<ymax>1940</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>1025</ymin>
+			<xmax>2127</xmax>
+			<ymax>1778</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>93</ymin>
+			<xmax>1538</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+</annotation>

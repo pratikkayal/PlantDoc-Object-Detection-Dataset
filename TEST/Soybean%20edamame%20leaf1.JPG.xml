@@ -1,0 +1,50 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>Soybean%20edamame%20leaf1.JPG.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /Soybean%20edamame%20leaf1.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4048</width>
+		<height>3040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>1</ymin>
+			<xmax>2655</xmax>
+			<ymax>1749</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1826</xmin>
+			<ymin>1670</ymin>
+			<xmax>3344</xmax>
+			<ymax>2733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>1424</ymin>
+			<xmax>1744</xmax>
+			<ymax>2509</ymax>
+		</bndbox>
+	</object>
+</annotation>

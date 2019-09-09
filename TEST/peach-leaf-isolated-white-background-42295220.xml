@@ -1,0 +1,38 @@
+<annotation>
+	<folder> peach leaf </folder>
+	<filename>peach-leaf-isolated-white-background-42295220.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ peach leaf /peach-leaf-isolated-white-background-42295220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>994</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>58</ymin>
+			<xmax>1119</xmax>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>478</ymin>
+			<xmax>1165</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

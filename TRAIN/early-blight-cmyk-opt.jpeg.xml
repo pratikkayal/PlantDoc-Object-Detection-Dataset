@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>early-blight-cmyk-opt.jpeg.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/early-blight-cmyk-opt.jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>396</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>1</ymin>
+			<xmax>360</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

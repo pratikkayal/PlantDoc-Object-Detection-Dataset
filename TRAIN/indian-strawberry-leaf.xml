@@ -1,0 +1,50 @@
+<annotation>
+	<folder> strawberry leaf	</folder>
+	<filename>indian-strawberry-leaf.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ strawberry leaf	/indian-strawberry-leaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3370</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>1215</ymin>
+			<xmax>1681</xmax>
+			<ymax>2219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1374</xmin>
+			<ymin>1067</ymin>
+			<xmax>2207</xmax>
+			<ymax>2171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Strawberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>482</ymin>
+			<xmax>1837</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>

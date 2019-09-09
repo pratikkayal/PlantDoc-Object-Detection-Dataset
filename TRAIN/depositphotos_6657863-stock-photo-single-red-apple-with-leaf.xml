@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>depositphotos_6657863-stock-photo-single-red-apple-with-leaf.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /depositphotos_6657863-stock-photo-single-red-apple-with-leaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>43</ymin>
+			<xmax>189</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

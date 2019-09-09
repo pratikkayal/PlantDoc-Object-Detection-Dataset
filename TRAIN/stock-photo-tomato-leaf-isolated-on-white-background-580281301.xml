@@ -1,0 +1,50 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /stock-photo-tomato-leaf-isolated-on-white-background-580281301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>118</ymin>
+			<xmax>277</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>48</ymin>
+			<xmax>250</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>58</ymin>
+			<xmax>397</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

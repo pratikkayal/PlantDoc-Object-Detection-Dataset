@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>s-l300.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /s-l300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>253</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>42</ymin>
+			<xmax>272</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

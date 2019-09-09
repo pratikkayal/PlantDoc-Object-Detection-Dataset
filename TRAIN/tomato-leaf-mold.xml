@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>tomato-leaf-mold.jpg</filename>
+    <size>
+        <width>150</width>
+        <height>150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>1</ymin>
+            <xmax>150</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+</annotation>

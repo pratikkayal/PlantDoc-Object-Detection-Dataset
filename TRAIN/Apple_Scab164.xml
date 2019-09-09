@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>Apple_Scab164.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /Apple_Scab164.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>146</ymin>
+			<xmax>559</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

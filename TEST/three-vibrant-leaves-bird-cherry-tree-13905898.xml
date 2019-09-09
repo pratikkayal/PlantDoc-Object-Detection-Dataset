@@ -1,0 +1,50 @@
+<annotation>
+	<folder> cherry leaf </folder>
+	<filename>three-vibrant-leaves-bird-cherry-tree-13905898.jpg</filename>
+	<path>/home/davinder/ISDf/ cherry leaf /three-vibrant-leaves-bird-cherry-tree-13905898.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>126</ymin>
+			<xmax>618</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>63</ymin>
+			<xmax>838</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>798</xmin>
+			<ymin>136</ymin>
+			<xmax>1175</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+</annotation>

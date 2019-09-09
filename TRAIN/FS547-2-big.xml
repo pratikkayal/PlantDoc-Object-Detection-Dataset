@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>FS547-2-big.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /FS547-2-big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>8</ymin>
+			<xmax>618</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

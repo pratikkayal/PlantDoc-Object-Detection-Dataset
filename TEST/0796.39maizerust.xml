@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>0796.39maizerust.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /0796.39maizerust.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>287</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>3</ymin>
+			<xmax>405</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

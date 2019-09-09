@@ -1,0 +1,26 @@
+<annotation>
+	<folder> blueberry leaf </folder>
+	<filename>blueberry-leaf-isolated-white-background-clipping-path-82775455.jpg</filename>
+	<path>/home/davinder/ISDf/ blueberry leaf /blueberry-leaf-isolated-white-background-clipping-path-82775455.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>981</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>29</ymin>
+			<xmax>720</xmax>
+			<ymax>1283</ymax>
+		</bndbox>
+	</object>
+</annotation>

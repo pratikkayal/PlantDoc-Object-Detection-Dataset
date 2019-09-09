@@ -1,0 +1,62 @@
+<annotation>
+	<folder> Potato leaf late blight	</folder>
+	<filename>6-13lateblightleavesMARY.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf late blight	/6-13lateblightleavesMARY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>65</ymin>
+			<xmax>429</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>244</ymin>
+			<xmax>229</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>34</ymin>
+			<xmax>140</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>9</ymin>
+			<xmax>250</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Squash Powdery mildew leaf </folder>
+	<filename>powdery-mildew-on-pumpkin-leaves-close-up-2.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Squash Powdery mildew leaf /powdery-mildew-on-pumpkin-leaves-close-up-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>1</ymin>
+			<xmax>545</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

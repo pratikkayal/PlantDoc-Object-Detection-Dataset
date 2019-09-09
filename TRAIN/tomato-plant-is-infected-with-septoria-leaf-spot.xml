@@ -1,0 +1,36 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>tomato-plant-is-infected-with-septoria-leaf-spot.jpg</filename>
+    <size>
+        <width>3054</width>
+        <height>2036</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>333</xmin>
+            <ymin>1133</ymin>
+            <xmax>1229</xmax>
+            <ymax>2022</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1260</xmin>
+            <ymin>352</ymin>
+            <xmax>2068</xmax>
+            <ymax>1512</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>leaf_mold1.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>368</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>322</xmin>
+            <ymin>37</ymin>
+            <xmax>600</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>122</ymin>
+            <xmax>285</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>
+</annotation>

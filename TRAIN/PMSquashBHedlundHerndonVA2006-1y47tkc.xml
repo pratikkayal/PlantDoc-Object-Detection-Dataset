@@ -1,0 +1,50 @@
+<annotation>
+	<folder> Squash Powdery mildew leaf </folder>
+	<filename>PMSquashBHedlundHerndonVA2006-1y47tkc.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Squash Powdery mildew leaf /PMSquashBHedlundHerndonVA2006-1y47tkc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2816</width>
+		<height>2112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>11</ymin>
+			<xmax>2558</xmax>
+			<ymax>2112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2205</xmin>
+			<ymin>731</ymin>
+			<xmax>2816</xmax>
+			<ymax>2075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>210</ymin>
+			<xmax>399</xmax>
+			<ymax>1590</ymax>
+		</bndbox>
+	</object>
+</annotation>

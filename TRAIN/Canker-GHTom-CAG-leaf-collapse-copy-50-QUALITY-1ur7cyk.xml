@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>Canker-GHTom-CAG-leaf-collapse-copy-50-QUALITY-1ur7cyk.jpg</filename>
+    <size>
+        <width>667</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>142</xmin>
+            <ymin>17</ymin>
+            <xmax>539</xmax>
+            <ymax>498</ymax>
+        </bndbox>
+    </object>
+</annotation>

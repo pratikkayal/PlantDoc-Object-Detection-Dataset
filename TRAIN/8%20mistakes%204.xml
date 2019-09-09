@@ -1,0 +1,50 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>8%20mistakes%204.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /8%20mistakes%204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>96</ymin>
+			<xmax>427</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>68</ymin>
+			<xmax>177</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>157</ymin>
+			<xmax>312</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

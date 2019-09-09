@@ -1,0 +1,50 @@
+<annotation>
+	<folder> grape leaf </folder>
+	<filename>grapes+003.JPG.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ grape leaf /grapes+003.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1071</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grape leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>124</ymin>
+			<xmax>805</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grape leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>343</ymin>
+			<xmax>783</xmax>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grape leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>411</ymin>
+			<xmax>1521</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>soybean-seedling-at-vc-stage-cotyledons-and-unifoliate-leaves-fully-J5RK4F.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /soybean-seedling-at-vc-stage-cotyledons-and-unifoliate-leaves-fully-J5RK4F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>639</ymin>
+			<xmax>651</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>495</ymin>
+			<xmax>608</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>228</ymin>
+			<xmax>491</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

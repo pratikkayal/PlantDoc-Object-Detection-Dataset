@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>Blght.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/Blght.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>266</ymin>
+			<xmax>2122</xmax>
+			<ymax>1420</ymax>
+		</bndbox>
+	</object>
+</annotation>

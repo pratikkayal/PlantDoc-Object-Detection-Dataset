@@ -1,0 +1,86 @@
+<annotation>
+	<folder> cherry leaf </folder>
+	<filename>cherry-tree-leaves.jpg</filename>
+	<path>/home/davinder/ISDf/ cherry leaf /cherry-tree-leaves.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>2740</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2655</xmin>
+			<ymin>84</ymin>
+			<xmax>5088</xmax>
+			<ymax>1529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1951</xmin>
+			<ymin>210</ymin>
+			<xmax>2803</xmax>
+			<ymax>1673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1092</xmin>
+			<ymin>451</ymin>
+			<xmax>2073</xmax>
+			<ymax>1758</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>625</ymin>
+			<xmax>1673</xmax>
+			<ymax>2651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2796</xmin>
+			<ymin>1414</ymin>
+			<xmax>5081</xmax>
+			<ymax>2740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1847</xmin>
+			<ymin>1784</ymin>
+			<xmax>3258</xmax>
+			<ymax>2677</ymax>
+		</bndbox>
+	</object>
+</annotation>

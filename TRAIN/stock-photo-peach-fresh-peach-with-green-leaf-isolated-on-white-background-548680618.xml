@@ -1,0 +1,62 @@
+<annotation>
+	<folder> peach leaf </folder>
+	<filename>stock-photo-peach-fresh-peach-with-green-leaf-isolated-on-white-background-548680618.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ peach leaf /stock-photo-peach-fresh-peach-with-green-leaf-isolated-on-white-background-548680618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>438</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>144</ymin>
+			<xmax>198</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>135</ymin>
+			<xmax>298</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>12</ymin>
+			<xmax>264</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>91</ymin>
+			<xmax>242</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

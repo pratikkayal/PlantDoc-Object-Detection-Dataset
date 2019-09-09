@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>tomato-late-blight-conn-2015-139rcs.jpg</filename>
+    <size>
+        <width>1616</width>
+        <height>1145</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>20</ymin>
+            <xmax>1598</xmax>
+            <ymax>848</ymax>
+        </bndbox>
+    </object>
+</annotation>

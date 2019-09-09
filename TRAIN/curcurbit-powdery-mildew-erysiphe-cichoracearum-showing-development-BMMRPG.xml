@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Squash Powdery mildew leaf </folder>
+	<filename>curcurbit-powdery-mildew-erysiphe-cichoracearum-showing-development-BMMRPG.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Squash Powdery mildew leaf /curcurbit-powdery-mildew-erysiphe-cichoracearum-showing-development-BMMRPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>87</ymin>
+			<xmax>1163</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+</annotation>

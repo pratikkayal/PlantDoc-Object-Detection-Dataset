@@ -1,0 +1,23 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>tomatoseptorialeafspotjpg-788d20798a3c74e7.jpg</filename>
+    <size>
+        <width>2048</width>
+        <height>1406</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>81</ymin>
+            <xmax>1809</xmax>
+            <ymax>1296</ymax>
+        </bndbox>
+    </object>
+</annotation>

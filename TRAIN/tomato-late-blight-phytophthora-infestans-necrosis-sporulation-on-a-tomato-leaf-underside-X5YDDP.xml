@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-X5YDDP.jpg</filename>
+    <size>
+        <width>1300</width>
+        <height>1346</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>770</xmin>
+            <ymin>209</ymin>
+            <xmax>1300</xmax>
+            <ymax>687</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>637</ymin>
+            <xmax>1104</xmax>
+            <ymax>1239</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>237</ymin>
+            <xmax>737</xmax>
+            <ymax>717</ymax>
+        </bndbox>
+    </object>
+</annotation>

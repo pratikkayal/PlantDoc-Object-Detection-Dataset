@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>HighTunnel_TLM6.jpg</filename>
+    <size>
+        <width>1380</width>
+        <height>920</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>141</ymin>
+            <xmax>978</xmax>
+            <ymax>920</ymax>
+        </bndbox>
+    </object>
+</annotation>

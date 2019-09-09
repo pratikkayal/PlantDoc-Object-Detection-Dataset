@@ -1,0 +1,26 @@
+<annotation>
+	<folder> leaf blight of corn </folder>
+	<filename>071409%20Vincelli%20nlb%20on%20corn%20leaf.JPG.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ leaf blight of corn /071409%20Vincelli%20nlb%20on%20corn%20leaf.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn leaf blight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>11</ymin>
+			<xmax>628</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

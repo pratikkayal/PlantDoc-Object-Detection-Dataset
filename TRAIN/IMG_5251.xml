@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Corn Gray leaf spot </folder>
+	<filename>IMG_5251.jpg</filename>
+	<path>/home/davinder/ISDf/ Corn Gray leaf spot /IMG_5251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>542</ymin>
+			<xmax>2541</xmax>
+			<ymax>1780</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>Leaves-of-Soybean.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /Leaves-of-Soybean.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>631</ymin>
+			<xmax>1333</xmax>
+			<ymax>1482</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1266</xmin>
+			<ymin>851</ymin>
+			<xmax>2009</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>1</ymin>
+			<xmax>1794</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1754</xmin>
+			<ymin>447</ymin>
+			<xmax>2592</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> raspberry leaf </folder>
+	<filename>black-raspberry-01.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ raspberry leaf /black-raspberry-01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>449</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>168</ymin>
+			<xmax>311</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

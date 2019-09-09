@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>ppth-friskop-1-corn-rust.png.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /ppth-friskop-1-corn-rust.png.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>1</ymin>
+			<xmax>566</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>MPC105550.jpg.rendition.largest.ss.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /MPC105550.jpg.rendition.largest.ss.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>61</ymin>
+			<xmax>150</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>105</ymin>
+			<xmax>142</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>68</ymin>
+			<xmax>190</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

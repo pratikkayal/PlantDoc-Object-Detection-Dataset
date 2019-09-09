@@ -1,0 +1,38 @@
+<annotation>
+	<folder> bell pepper leaf spot </folder>
+	<filename>pepper_phytophtera12x500.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ bell pepper leaf spot /pepper_phytophtera12x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bell_pepper leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>36</ymin>
+			<xmax>177</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bell_pepper leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>327</ymin>
+			<xmax>460</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

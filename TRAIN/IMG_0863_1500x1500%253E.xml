@@ -1,0 +1,36 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>IMG_0863_1500x1500%253E.jpg</filename>
+    <size>
+        <width>1500</width>
+        <height>1125</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>182</xmin>
+            <ymin>143</ymin>
+            <xmax>888</xmax>
+            <ymax>1097</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>705</xmin>
+            <ymin>10</ymin>
+            <xmax>1269</xmax>
+            <ymax>1038</ymax>
+        </bndbox>
+    </object>
+</annotation>

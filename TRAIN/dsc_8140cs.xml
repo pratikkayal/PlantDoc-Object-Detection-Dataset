@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>dsc_8140cs.jpg</filename>
+    <size>
+        <width>1412</width>
+        <height>1132</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401</xmin>
+            <ymin>90</ymin>
+            <xmax>899</xmax>
+            <ymax>443</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>519</xmin>
+            <ymin>471</ymin>
+            <xmax>995</xmax>
+            <ymax>944</ymax>
+        </bndbox>
+    </object>
+</annotation>

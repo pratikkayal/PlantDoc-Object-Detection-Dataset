@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf mosaic virus </folder>
+    <filename>tomato-mosaic-virus.jpg</filename>
+    <size>
+        <width>150</width>
+        <height>150</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>3</ymin>
+            <xmax>148</xmax>
+            <ymax>148</ymax>
+        </bndbox>
+    </object>
+</annotation>

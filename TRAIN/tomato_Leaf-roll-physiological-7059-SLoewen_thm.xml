@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg</filename>
+    <size>
+        <width>115</width>
+        <height>85</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>76</xmin>
+            <ymin>22</ymin>
+            <xmax>111</xmax>
+            <ymax>75</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>20</ymin>
+            <xmax>50</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    </object>
+</annotation>

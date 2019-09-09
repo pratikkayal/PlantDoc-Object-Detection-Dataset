@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Squash Powdery mildew leaf </folder>
+	<filename>7e565dd05211332ae896198afc622054.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Squash Powdery mildew leaf /7e565dd05211332ae896198afc622054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Squash Powdery mildew leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>50</ymin>
+			<xmax>484</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

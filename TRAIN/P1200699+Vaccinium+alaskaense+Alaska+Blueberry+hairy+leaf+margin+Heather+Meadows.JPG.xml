@@ -1,0 +1,26 @@
+<annotation>
+	<folder> blueberry leaf </folder>
+	<filename>P1200699+Vaccinium+alaskaense+Alaska+Blueberry+hairy+leaf+margin+Heather+Meadows.JPG.jpg</filename>
+	<path>/home/davinder/ISDf/ blueberry leaf /P1200699+Vaccinium+alaskaense+Alaska+Blueberry+hairy+leaf+margin+Heather+Meadows.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>16</ymin>
+			<xmax>287</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

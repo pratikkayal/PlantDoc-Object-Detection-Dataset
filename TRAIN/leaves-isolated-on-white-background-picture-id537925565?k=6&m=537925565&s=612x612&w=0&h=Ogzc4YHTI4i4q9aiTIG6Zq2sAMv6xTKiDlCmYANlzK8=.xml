@@ -1,0 +1,38 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>leaves-isolated-on-white-background-picture-id537925565?k=6&amp;m=537925565&amp;s=612x612&amp;w=0&amp;h=Ogzc4YHTI4i4q9aiTIG6Zq2sAMv6xTKiDlCmYANlzK8=.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /leaves-isolated-on-white-background-picture-id537925565?k=6&amp;m=537925565&amp;s=612x612&amp;w=0&amp;h=Ogzc4YHTI4i4q9aiTIG6Zq2sAMv6xTKiDlCmYANlzK8=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>16</ymin>
+			<xmax>527</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>271</ymin>
+			<xmax>475</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

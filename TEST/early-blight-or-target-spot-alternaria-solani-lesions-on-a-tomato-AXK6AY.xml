@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-AXK6AY.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/early-blight-or-target-spot-alternaria-solani-lesions-on-a-tomato-AXK6AY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1069</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>170</ymin>
+			<xmax>1232</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

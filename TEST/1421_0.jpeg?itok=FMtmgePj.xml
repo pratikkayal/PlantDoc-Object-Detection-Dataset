@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Potato leaf late blight	</folder>
+	<filename>1421_0.jpeg?itok=FMtmgePj.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf late blight	/1421_0.jpeg?itok=FMtmgePj.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>38</ymin>
+			<xmax>617</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

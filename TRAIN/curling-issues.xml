@@ -1,0 +1,50 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>curling-issues.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /curling-issues.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1687</xmin>
+			<ymin>1229</ymin>
+			<xmax>2820</xmax>
+			<ymax>1967</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>1400</ymin>
+			<xmax>1996</xmax>
+			<ymax>2253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2077</xmin>
+			<ymin>719</ymin>
+			<xmax>3610</xmax>
+			<ymax>1314</ymax>
+		</bndbox>
+	</object>
+</annotation>

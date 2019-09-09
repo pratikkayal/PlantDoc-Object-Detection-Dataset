@@ -1,0 +1,62 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>classic-septoria.jpg</filename>
+    <size>
+        <width>2304</width>
+        <height>3072</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>421</xmin>
+            <ymin>1798</ymin>
+            <xmax>1201</xmax>
+            <ymax>3048</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>826</xmin>
+            <ymin>1172</ymin>
+            <xmax>1482</xmax>
+            <ymax>2129</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>245</xmin>
+            <ymin>565</ymin>
+            <xmax>1124</xmax>
+            <ymax>1436</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1261</xmin>
+            <ymin>691</ymin>
+            <xmax>1851</xmax>
+            <ymax>1533</ymax>
+        </bndbox>
+    </object>
+</annotation>

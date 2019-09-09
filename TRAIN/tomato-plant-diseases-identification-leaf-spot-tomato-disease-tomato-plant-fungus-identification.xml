@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>tomato-plant-diseases-identification-leaf-spot-tomato-disease-tomato-plant-fungus-identification.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>900</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>442</xmin>
+            <ymin>13</ymin>
+            <xmax>598</xmax>
+            <ymax>299</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>130</xmin>
+            <ymin>64</ymin>
+            <xmax>373</xmax>
+            <ymax>660</ymax>
+        </bndbox>
+    </object>
+</annotation>

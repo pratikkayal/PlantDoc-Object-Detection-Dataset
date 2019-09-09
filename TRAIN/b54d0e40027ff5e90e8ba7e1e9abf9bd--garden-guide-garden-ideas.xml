@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>3</ymin>
+			<xmax>385</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

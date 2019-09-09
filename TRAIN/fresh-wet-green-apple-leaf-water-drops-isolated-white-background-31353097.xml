@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>fresh-wet-green-apple-leaf-water-drops-isolated-white-background-31353097.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /fresh-wet-green-apple-leaf-water-drops-isolated-white-background-31353097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1225</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>140</ymin>
+			<xmax>528</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

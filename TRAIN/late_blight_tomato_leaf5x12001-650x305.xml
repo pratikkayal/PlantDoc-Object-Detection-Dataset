@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>late_blight_tomato_leaf5x12001-650x305.jpg</filename>
+    <size>
+        <width>650</width>
+        <height>305</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>65</xmin>
+            <ymin>4</ymin>
+            <xmax>630</xmax>
+            <ymax>302</ymax>
+        </bndbox>
+    </object>
+</annotation>

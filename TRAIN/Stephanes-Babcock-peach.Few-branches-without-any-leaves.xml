@@ -1,0 +1,50 @@
+<annotation>
+	<folder> peach leaf </folder>
+	<filename>Stephanes-Babcock-peach.Few-branches-without-any-leaves.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ peach leaf /Stephanes-Babcock-peach.Few-branches-without-any-leaves.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>2141</ymin>
+			<xmax>1139</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>2596</ymin>
+			<xmax>891</xmax>
+			<ymax>2920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>1934</ymin>
+			<xmax>842</xmax>
+			<ymax>2341</ymax>
+		</bndbox>
+	</object>
+</annotation>

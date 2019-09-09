@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>my-plant-has-brown-spots-leaf-spot-and-canker-on-dogwood.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>423</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>264</xmin>
+            <ymin>26</ymin>
+            <xmax>551</xmax>
+            <ymax>205</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>64</ymin>
+            <xmax>467</xmax>
+            <ymax>278</ymax>
+        </bndbox>
+    </object>
+</annotation>

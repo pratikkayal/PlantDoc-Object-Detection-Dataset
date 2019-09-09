@@ -1,0 +1,23 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>2STEM.jpg</filename>
+    <size>
+        <width>367</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>9</ymin>
+            <xmax>332</xmax>
+            <ymax>625</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>39765006175_e2f0da764d_b.jpg</filename>
+    <size>
+        <width>1023</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>119</xmin>
+            <ymin>100</ymin>
+            <xmax>961</xmax>
+            <ymax>822</ymax>
+        </bndbox>
+    </object>
+</annotation>

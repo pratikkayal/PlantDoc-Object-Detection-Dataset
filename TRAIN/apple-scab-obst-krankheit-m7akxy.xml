@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>apple-scab-obst-krankheit-m7akxy.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /apple-scab-obst-krankheit-m7akxy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>630</ymin>
+			<xmax>1131</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+</annotation>

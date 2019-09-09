@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>black_leaf_mold_in_zina_tina.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>675</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>154</ymin>
+            <xmax>900</xmax>
+            <ymax>451</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>178</xmin>
+            <ymin>202</ymin>
+            <xmax>448</xmax>
+            <ymax>437</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>524</xmin>
+            <ymin>9</ymin>
+            <xmax>708</xmax>
+            <ymax>381</ymax>
+        </bndbox>
+    </object>
+</annotation>

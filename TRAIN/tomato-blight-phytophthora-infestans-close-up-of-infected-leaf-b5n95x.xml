@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>tomato-blight-phytophthora-infestans-close-up-of-infected-leaf-b5n95x.jpg</filename>
+    <size>
+        <width>347</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>36</xmin>
+            <ymin>80</ymin>
+            <xmax>319</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>
+</annotation>

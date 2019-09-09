@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Potato leaf late blight	</folder>
+	<filename>potato-blight-phytophora-infestans-close-up-of-infected-leaf-top-surface-A60HXG.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf late blight	/potato-blight-phytophora-infestans-close-up-of-infected-leaf-top-surface-A60HXG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf late blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>49</ymin>
+			<xmax>1225</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

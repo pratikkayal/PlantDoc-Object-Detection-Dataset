@@ -1,0 +1,26 @@
+<annotation>
+	<folder> peach leaf </folder>
+	<filename>H2c1o.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ peach leaf /H2c1o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>199</ymin>
+			<xmax>1494</xmax>
+			<ymax>3106</ymax>
+		</bndbox>
+	</object>
+</annotation>

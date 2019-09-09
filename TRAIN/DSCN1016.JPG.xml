@@ -1,0 +1,38 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>DSCN1016.JPG.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /DSCN1016.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>603</ymin>
+			<xmax>726</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>481</ymin>
+			<xmax>1206</xmax>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+</annotation>

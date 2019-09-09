@@ -1,0 +1,38 @@
+<annotation>
+	<folder> blueberry leaf </folder>
+	<filename>vaccinium-angustifolium-low-bush-blueberry_0830_124221.jpg</filename>
+	<path>/home/davinder/ISDf/ blueberry leaf /vaccinium-angustifolium-low-bush-blueberry_0830_124221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>168</ymin>
+			<xmax>349</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>91</ymin>
+			<xmax>623</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

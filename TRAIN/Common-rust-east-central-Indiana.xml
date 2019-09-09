@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>Common-rust-east-central-Indiana.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /Common-rust-east-central-Indiana.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1229</width>
+		<height>880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>282</ymin>
+			<xmax>963</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

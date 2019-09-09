@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>170</ymin>
+			<xmax>1120</xmax>
+			<ymax>1012</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>972</xmin>
+			<ymin>560</ymin>
+			<xmax>1288</xmax>
+			<ymax>925</ymax>
+		</bndbox>
+	</object>
+</annotation>

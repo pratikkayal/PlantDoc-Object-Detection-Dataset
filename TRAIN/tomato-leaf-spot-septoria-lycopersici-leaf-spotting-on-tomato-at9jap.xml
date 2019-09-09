@@ -1,0 +1,23 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>tomato-leaf-spot-septoria-lycopersici-leaf-spotting-on-tomato-at9jap.jpg</filename>
+    <size>
+        <width>452</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>107</xmin>
+            <ymin>101</ymin>
+            <xmax>354</xmax>
+            <ymax>497</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>late_blight_tomato_leaf_spore1x1200.jpg</filename>
+    <size>
+        <width>1200</width>
+        <height>914</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>74</xmin>
+            <ymin>491</ymin>
+            <xmax>567</xmax>
+            <ymax>877</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>587</xmin>
+            <ymin>368</ymin>
+            <xmax>1200</xmax>
+            <ymax>870</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>323</xmin>
+            <ymin>60</ymin>
+            <xmax>1200</xmax>
+            <ymax>511</ymax>
+        </bndbox>
+    </object>
+</annotation>

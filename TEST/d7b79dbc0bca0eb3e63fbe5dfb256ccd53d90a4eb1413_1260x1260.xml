@@ -1,0 +1,26 @@
+<annotation>
+	<folder> cherry leaf </folder>
+	<filename>d7b79dbc0bca0eb3e63fbe5dfb256ccd53d90a4eb1413_1260x1260.jpg</filename>
+	<path>/home/davinder/ISDf/ cherry leaf /d7b79dbc0bca0eb3e63fbe5dfb256ccd53d90a4eb1413_1260x1260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1056</width>
+		<height>1260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>94</ymin>
+			<xmax>721</xmax>
+			<ymax>1199</ymax>
+		</bndbox>
+	</object>
+</annotation>

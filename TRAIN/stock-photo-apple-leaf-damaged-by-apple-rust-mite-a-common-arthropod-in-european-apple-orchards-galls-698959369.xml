@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>stock-photo-apple-leaf-damaged-by-apple-rust-mite-a-common-arthropod-in-european-apple-orchards-galls-698959369.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /stock-photo-apple-leaf-damaged-by-apple-rust-mite-a-common-arthropod-in-european-apple-orchards-galls-698959369.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>106</ymin>
+			<xmax>429</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

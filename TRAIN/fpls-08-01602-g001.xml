@@ -1,0 +1,38 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>fpls-08-01602-g001.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /fpls-08-01602-g001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>36</ymin>
+			<xmax>407</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>608</ymin>
+			<xmax>550</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>

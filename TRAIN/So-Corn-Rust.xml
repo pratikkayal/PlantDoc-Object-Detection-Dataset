@@ -1,0 +1,38 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>So-Corn-Rust.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /So-Corn-Rust.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>353</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>88</ymin>
+			<xmax>272</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>36</ymin>
+			<xmax>296</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>apple-leaf-isolated-white-background-56631026.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /apple-leaf-isolated-white-background-56631026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>72</ymin>
+			<xmax>661</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

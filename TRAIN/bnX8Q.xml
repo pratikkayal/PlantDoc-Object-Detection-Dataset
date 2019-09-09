@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>bnX8Q.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /bnX8Q.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>90</ymin>
+			<xmax>283</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato Septoria leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>36</ymin>
+			<xmax>268</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

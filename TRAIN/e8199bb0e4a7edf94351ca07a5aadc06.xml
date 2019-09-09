@@ -1,0 +1,26 @@
+<annotation>
+	<folder> bell pepper leaf </folder>
+	<filename>e8199bb0e4a7edf94351ca07a5aadc06.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ bell pepper leaf /e8199bb0e4a7edf94351ca07a5aadc06.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bell_pepper leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>294</ymin>
+			<xmax>577</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+</annotation>

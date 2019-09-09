@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>Bacterial_spots586.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>112</xmin>
+            <ymin>73</ymin>
+            <xmax>381</xmax>
+            <ymax>474</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>171</ymin>
+            <xmax>690</xmax>
+            <ymax>596</ymax>
+        </bndbox>
+    </object>
+</annotation>

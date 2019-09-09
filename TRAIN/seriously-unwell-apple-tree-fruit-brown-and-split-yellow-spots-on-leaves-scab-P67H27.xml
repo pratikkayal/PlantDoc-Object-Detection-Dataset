@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /seriously-unwell-apple-tree-fruit-brown-and-split-yellow-spots-on-leaves-scab-P67H27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>495</ymin>
+			<xmax>585</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>371</ymin>
+			<xmax>1158</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

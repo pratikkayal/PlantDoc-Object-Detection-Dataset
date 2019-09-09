@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf mosaic virus </folder>
+    <filename>everystockphoto-21099455-l.jpg</filename>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>80</ymin>
+            <xmax>484</xmax>
+            <ymax>360</ymax>
+        </bndbox>
+    </object>
+</annotation>

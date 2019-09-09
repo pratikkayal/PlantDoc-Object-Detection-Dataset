@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>tomato-late-blight-phytophthora-infestans-mycelium-and-lesions-on-a15yr2.jpg</filename>
+    <size>
+        <width>512</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>139</xmin>
+            <ymin>250</ymin>
+            <xmax>423</xmax>
+            <ymax>440</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>53</ymin>
+            <xmax>413</xmax>
+            <ymax>271</ymax>
+        </bndbox>
+    </object>
+</annotation>

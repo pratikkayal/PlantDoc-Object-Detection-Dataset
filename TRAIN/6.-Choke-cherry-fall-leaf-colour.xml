@@ -1,0 +1,38 @@
+<annotation>
+	<folder> cherry leaf </folder>
+	<filename>6.-Choke-cherry-fall-leaf-colour.jpg</filename>
+	<path>/home/davinder/ISDf/ cherry leaf /6.-Choke-cherry-fall-leaf-colour.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2100</width>
+		<height>1575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>13</ymin>
+			<xmax>1740</xmax>
+			<ymax>1266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>430</ymin>
+			<xmax>1091</xmax>
+			<ymax>1575</ymax>
+		</bndbox>
+	</object>
+</annotation>

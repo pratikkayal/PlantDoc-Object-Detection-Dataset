@@ -1,0 +1,75 @@
+<annotation>
+    <folder> Tomato Septoria leaf spot  </folder>
+    <filename>Septoria-Tomato.jpg</filename>
+    <size>
+        <width>3872</width>
+        <height>2592</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>7</ymin>
+            <xmax>1811</xmax>
+            <ymax>1138</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>190</xmin>
+            <ymin>1274</ymin>
+            <xmax>1586</xmax>
+            <ymax>2592</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1461</xmin>
+            <ymin>1466</ymin>
+            <xmax>2012</xmax>
+            <ymax>1914</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1875</xmin>
+            <ymin>811</ymin>
+            <xmax>3610</xmax>
+            <ymax>2275</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato Septoria leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1870</xmin>
+            <ymin>507</ymin>
+            <xmax>2887</xmax>
+            <ymax>1091</ymax>
+        </bndbox>
+    </object>
+</annotation>

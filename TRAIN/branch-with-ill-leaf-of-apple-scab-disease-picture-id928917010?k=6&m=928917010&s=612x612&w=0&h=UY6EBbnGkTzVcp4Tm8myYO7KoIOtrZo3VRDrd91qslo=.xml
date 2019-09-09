@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>branch-with-ill-leaf-of-apple-scab-disease-picture-id928917010?k=6&amp;m=928917010&amp;s=612x612&amp;w=0&amp;h=UY6EBbnGkTzVcp4Tm8myYO7KoIOtrZo3VRDrd91qslo=.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /branch-with-ill-leaf-of-apple-scab-disease-picture-id928917010?k=6&amp;m=928917010&amp;s=612x612&amp;w=0&amp;h=UY6EBbnGkTzVcp4Tm8myYO7KoIOtrZo3VRDrd91qslo=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>77</ymin>
+			<xmax>332</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>KDeficientSoyBean.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /KDeficientSoyBean.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1639</width>
+		<height>1272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>73</ymin>
+			<xmax>1313</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

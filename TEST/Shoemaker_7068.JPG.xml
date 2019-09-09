@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Tomato Early blight leaf </folder>
+	<filename>Shoemaker_7068.JPG.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ Tomato Early blight leaf /Shoemaker_7068.JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato Early blight leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>105</ymin>
+			<xmax>564</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

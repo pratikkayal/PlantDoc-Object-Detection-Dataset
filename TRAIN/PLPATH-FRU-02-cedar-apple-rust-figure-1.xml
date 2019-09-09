@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>PLPATH-FRU-02-cedar-apple-rust-figure-1.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /PLPATH-FRU-02-cedar-apple-rust-figure-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>698</width>
+		<height>1066</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>692</xmax>
+			<ymax>1064</ymax>
+		</bndbox>
+	</object>
+</annotation>

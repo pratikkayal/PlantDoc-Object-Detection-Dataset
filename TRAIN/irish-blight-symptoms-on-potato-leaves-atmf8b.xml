@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Potato leaf early blight	</folder>
+	<filename>irish-blight-symptoms-on-potato-leaves-atmf8b.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ Potato leaf early blight	/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>437</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>155</ymin>
+			<xmax>383</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Potato leaf early blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>123</ymin>
+			<xmax>473</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

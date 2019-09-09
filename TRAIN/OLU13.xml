@@ -1,0 +1,62 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>OLU13.jpg</filename>
+    <size>
+        <width>6000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>376</xmin>
+            <ymin>1</ymin>
+            <xmax>1896</xmax>
+            <ymax>697</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1971</xmin>
+            <ymin>1</ymin>
+            <xmax>3503</xmax>
+            <ymax>932</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3490</xmin>
+            <ymin>3242</ymin>
+            <xmax>4513</xmax>
+            <ymax>4000</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1295</xmin>
+            <ymin>1027</ymin>
+            <xmax>4552</xmax>
+            <ymax>3007</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>dsc_4624s.jpg</filename>
+    <size>
+        <width>1501</width>
+        <height>997</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>452</xmin>
+            <ymin>321</ymin>
+            <xmax>1177</xmax>
+            <ymax>908</ymax>
+        </bndbox>
+    </object>
+</annotation>

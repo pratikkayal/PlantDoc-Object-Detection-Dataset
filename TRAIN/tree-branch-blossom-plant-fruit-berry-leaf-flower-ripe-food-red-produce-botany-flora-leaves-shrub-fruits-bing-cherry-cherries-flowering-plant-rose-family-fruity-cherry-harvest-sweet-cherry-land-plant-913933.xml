@@ -1,0 +1,38 @@
+<annotation>
+	<folder> cherry leaf </folder>
+	<filename>tree-branch-blossom-plant-fruit-berry-leaf-flower-ripe-food-red-produce-botany-flora-leaves-shrub-fruits-bing-cherry-cherries-flowering-plant-rose-family-fruity-cherry-harvest-sweet-cherry-land-plant-913933.jpg</filename>
+	<path>/home/davinder/ISDf/ cherry leaf /tree-branch-blossom-plant-fruit-berry-leaf-flower-ripe-food-red-produce-botany-flora-leaves-shrub-fruits-bing-cherry-cherries-flowering-plant-rose-family-fruity-cherry-harvest-sweet-cherry-land-plant-913933.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>660</ymin>
+			<xmax>889</xmax>
+			<ymax>2166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cherry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2218</xmin>
+			<ymin>391</ymin>
+			<xmax>3161</xmax>
+			<ymax>1552</ymax>
+		</bndbox>
+	</object>
+</annotation>

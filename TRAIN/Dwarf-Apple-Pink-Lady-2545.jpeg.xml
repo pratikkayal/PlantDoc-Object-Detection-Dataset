@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>Dwarf-Apple-Pink-Lady-2545.jpeg.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /Dwarf-Apple-Pink-Lady-2545.jpeg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>7</ymin>
+			<xmax>373</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

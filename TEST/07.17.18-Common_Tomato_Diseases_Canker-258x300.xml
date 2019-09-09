@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>07.17.18-Common_Tomato_Diseases_Canker-258x300.jpg</filename>
+    <size>
+        <width>258</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>9</ymin>
+            <xmax>235</xmax>
+            <ymax>284</ymax>
+        </bndbox>
+    </object>
+</annotation>

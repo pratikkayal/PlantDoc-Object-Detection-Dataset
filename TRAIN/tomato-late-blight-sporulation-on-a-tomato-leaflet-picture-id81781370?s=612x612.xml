@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>tomato-late-blight-sporulation-on-a-tomato-leaflet-picture-id81781370?s=612x612.jpg</filename>
+    <size>
+        <width>612</width>
+        <height>529</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>118</ymin>
+            <xmax>533</xmax>
+            <ymax>385</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Corn Gray leaf spot </folder>
+	<filename>Figure%201%20Gray%20leaf%20spot%20and%20Northern%20corn%20leaf%20blight.jpg</filename>
+	<path>/home/davinder/ISDf/ Corn Gray leaf spot /Figure%201%20Gray%20leaf%20spot%20and%20Northern%20corn%20leaf%20blight.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>523</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>261</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>

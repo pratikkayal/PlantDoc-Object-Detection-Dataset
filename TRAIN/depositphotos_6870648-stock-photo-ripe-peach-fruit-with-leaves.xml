@@ -1,0 +1,38 @@
+<annotation>
+	<folder> peach leaf </folder>
+	<filename>depositphotos_6870648-stock-photo-ripe-peach-fruit-with-leaves.jpg</filename>
+	<path>/home/pranjali/Desktop/sem6/ML_Project/latestDataset/ peach leaf /depositphotos_6870648-stock-photo-ripe-peach-fruit-with-leaves.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>774</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>219</ymin>
+			<xmax>979</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Peach leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>96</ymin>
+			<xmax>898</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

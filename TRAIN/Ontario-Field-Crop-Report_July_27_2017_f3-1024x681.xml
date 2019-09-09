@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Corn Gray leaf spot </folder>
+	<filename>Ontario-Field-Crop-Report_July_27_2017_f3-1024x681.jpg</filename>
+	<path>/home/davinder/ISDf/ Corn Gray leaf spot /Ontario-Field-Crop-Report_July_27_2017_f3-1024x681.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>121</ymin>
+			<xmax>1024</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>

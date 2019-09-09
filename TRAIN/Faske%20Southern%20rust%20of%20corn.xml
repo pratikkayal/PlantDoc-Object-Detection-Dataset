@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>Faske%20Southern%20rust%20of%20corn.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /Faske%20Southern%20rust%20of%20corn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>2</ymin>
+			<xmax>349</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

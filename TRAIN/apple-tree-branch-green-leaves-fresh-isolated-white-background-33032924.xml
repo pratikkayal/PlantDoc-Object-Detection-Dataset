@@ -1,0 +1,50 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /apple-tree-branch-green-leaves-fresh-isolated-white-background-33032924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>432</ymin>
+			<xmax>938</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>4</ymin>
+			<xmax>1070</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>246</ymin>
+			<xmax>1180</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

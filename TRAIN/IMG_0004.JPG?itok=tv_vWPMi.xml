@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Corn Gray leaf spot </folder>
+	<filename>IMG_0004.JPG?itok=tv_vWPMi.jpg</filename>
+	<path>/home/davinder/ISDf/ Corn Gray leaf spot /IMG_0004.JPG?itok=tv_vWPMi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>567</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>565</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

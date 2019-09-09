@@ -1,0 +1,26 @@
+<annotation>
+	<folder> bell pepper leaf </folder>
+	<filename>fotolia_4311376_XS.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ bell pepper leaf /fotolia_4311376_XS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>478</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bell_pepper leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>93</ymin>
+			<xmax>197</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

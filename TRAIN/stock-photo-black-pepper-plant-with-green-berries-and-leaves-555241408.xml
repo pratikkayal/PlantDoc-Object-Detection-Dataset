@@ -1,0 +1,38 @@
+<annotation>
+	<folder> bell pepper leaf </folder>
+	<filename>stock-photo-black-pepper-plant-with-green-berries-and-leaves-555241408.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ bell pepper leaf /stock-photo-black-pepper-plant-with-green-berries-and-leaves-555241408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bell_pepper leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>1</ymin>
+			<xmax>376</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bell_pepper leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>18</ymin>
+			<xmax>172</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

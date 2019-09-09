@@ -1,0 +1,38 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>apple-scab-venturia-inaequalis-leaf-symptoms-on-tree-dark-fungal-pustules-aceg6b.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /apple-scab-venturia-inaequalis-leaf-symptoms-on-tree-dark-fungal-pustules-aceg6b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>508</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>181</ymin>
+			<xmax>460</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>35</ymin>
+			<xmax>554</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

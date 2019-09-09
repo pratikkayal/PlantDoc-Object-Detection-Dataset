@@ -1,0 +1,26 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>downy-mildew-on-soybeans-2csq9n7.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /downy-mildew-on-soybeans-2csq9n7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2919</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>5</ymin>
+			<xmax>2130</xmax>
+			<ymax>2448</ymax>
+		</bndbox>
+	</object>
+</annotation>

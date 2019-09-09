@@ -1,0 +1,26 @@
+<annotation>
+	<folder> bell pepper leaf </folder>
+	<filename>stock-photo-closeup-of-underside-of-bell-pepper-leaf-isolated-on-white-background-114184570.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ bell pepper leaf /stock-photo-closeup-of-underside-of-bell-pepper-leaf-isolated-on-white-background-114184570.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>996</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bell_pepper leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>66</ymin>
+			<xmax>827</xmax>
+			<ymax>1118</ymax>
+		</bndbox>
+	</object>
+</annotation>

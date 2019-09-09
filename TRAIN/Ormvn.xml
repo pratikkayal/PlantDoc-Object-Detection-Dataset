@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato mold leaf  </folder>
+    <filename>Ormvn.jpg</filename>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>915</xmin>
+            <ymin>653</ymin>
+            <xmax>3259</xmax>
+            <ymax>4512</ymax>
+        </bndbox>
+    </object>
+</annotation>

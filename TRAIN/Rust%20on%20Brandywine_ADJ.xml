@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>Rust%20on%20Brandywine_ADJ.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /Rust%20on%20Brandywine_ADJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1236</width>
+		<height>824</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>47</ymin>
+			<xmax>844</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

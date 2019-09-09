@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato leaf yellow virus </folder>
+    <filename>IMG_2686.JPG.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1200</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>721</xmin>
+            <ymin>224</ymin>
+            <xmax>931</xmax>
+            <ymax>719</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1201</xmin>
+            <ymin>444</ymin>
+            <xmax>1429</xmax>
+            <ymax>888</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>950</xmin>
+            <ymin>307</ymin>
+            <xmax>1248</xmax>
+            <ymax>823</ymax>
+        </bndbox>
+    </object>
+</annotation>

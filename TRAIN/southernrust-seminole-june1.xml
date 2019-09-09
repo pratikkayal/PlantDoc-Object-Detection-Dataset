@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>southernrust-seminole-june1.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /southernrust-seminole-june1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>727</xmin>
+			<ymin>786</ymin>
+			<xmax>2448</xmax>
+			<ymax>3264</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>20140818-tomato-sauce-vicky-wasik-1.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /20140818-tomato-sauce-vicky-wasik-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>517</ymin>
+			<xmax>652</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>258</ymin>
+			<xmax>743</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> raspberry leaf </folder>
+	<filename>organic-herbal-smoke-tea-raspberry-leaf.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ raspberry leaf /organic-herbal-smoke-tea-raspberry-leaf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>214</ymin>
+			<xmax>396</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

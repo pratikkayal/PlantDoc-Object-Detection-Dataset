@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>scab-venturia-inaequalis-development-of-disease-on-the-stem-upper-B359MJ.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /scab-venturia-inaequalis-development-of-disease-on-the-stem-upper-B359MJ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>178</ymin>
+			<xmax>1210</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>ripe-red-apple-with-leaf-picture-id117485645?b=1&amp;k=6&amp;m=117485645&amp;s=612x612&amp;w=0&amp;h=Ii96HYzF-2E5ky-IcXbVhvEFvU28o0rlkwagb7T6LhY=.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /ripe-red-apple-with-leaf-picture-id117485645?b=1&amp;k=6&amp;m=117485645&amp;s=612x612&amp;w=0&amp;h=Ii96HYzF-2E5ky-IcXbVhvEFvU28o0rlkwagb7T6LhY=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>7</ymin>
+			<xmax>374</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

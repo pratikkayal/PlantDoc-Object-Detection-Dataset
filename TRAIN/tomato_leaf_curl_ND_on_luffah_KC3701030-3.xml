@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf mosaic virus </folder>
+    <filename>tomato_leaf_curl_ND_on_luffah_KC3701030-3.jpg</filename>
+    <size>
+        <width>190</width>
+        <height>148</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>9</ymin>
+            <xmax>145</xmax>
+            <ymax>136</ymax>
+        </bndbox>
+    </object>
+</annotation>

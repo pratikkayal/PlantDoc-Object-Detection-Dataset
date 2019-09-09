@@ -1,0 +1,26 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>double-crop-soybean-leaves-Aug-19-2013_thumb.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /double-crop-soybean-leaves-Aug-19-2013_thumb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>82</ymin>
+			<xmax>407</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

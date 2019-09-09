@@ -1,0 +1,62 @@
+<annotation>
+    <folder> tomato leaf yellow virus </folder>
+    <filename>tomato-yellow-leaf-curl-virus-tylvcv-symptoms-on-a-tomato-plant-under-BMYHXY.jpg</filename>
+    <size>
+        <width>1050</width>
+        <height>1390</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>98</xmin>
+            <ymin>712</ymin>
+            <xmax>335</xmax>
+            <ymax>1120</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>613</xmin>
+            <ymin>446</ymin>
+            <xmax>815</xmax>
+            <ymax>953</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>381</xmin>
+            <ymin>418</ymin>
+            <xmax>469</xmax>
+            <ymax>664</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>421</xmin>
+            <ymin>731</ymin>
+            <xmax>598</xmax>
+            <ymax>1074</ymax>
+        </bndbox>
+    </object>
+</annotation>

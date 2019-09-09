@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>20180511_091252-1gy5xf5-e1526048000596.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /20180511_091252-1gy5xf5-e1526048000596.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2988</width>
+		<height>5312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>1422</ymin>
+			<xmax>2221</xmax>
+			<ymax>4144</ymax>
+		</bndbox>
+	</object>
+</annotation>

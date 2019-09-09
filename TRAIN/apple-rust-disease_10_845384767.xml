@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>apple-rust-disease_10_845384767.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /apple-rust-disease_10_845384767.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>32</ymin>
+			<xmax>912</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

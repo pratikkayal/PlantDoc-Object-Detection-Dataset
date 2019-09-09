@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Corn Gray leaf spot </folder>
+	<filename>lipps-d.jpg</filename>
+	<path>/home/davinder/ISDf/ Corn Gray leaf spot /lipps-d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn Gray leaf spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>52</ymin>
+			<xmax>480</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

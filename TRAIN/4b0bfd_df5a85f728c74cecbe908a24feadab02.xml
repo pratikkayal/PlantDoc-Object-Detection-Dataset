@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato leaf mosaic virus </folder>
+    <filename>4b0bfd_df5a85f728c74cecbe908a24feadab02.jpg</filename>
+    <size>
+        <width>173</width>
+        <height>244</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>98</xmin>
+            <ymin>140</ymin>
+            <xmax>169</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>116</ymin>
+            <xmax>61</xmax>
+            <ymax>199</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>5</ymin>
+            <xmax>129</xmax>
+            <ymax>121</ymax>
+        </bndbox>
+    </object>
+</annotation>

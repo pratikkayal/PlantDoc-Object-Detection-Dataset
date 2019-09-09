@@ -1,0 +1,36 @@
+<annotation>
+    <folder> tomato leaf mosaic virus </folder>
+    <filename>Basil%2Binfected%2Bby%2BTomato%2BSpotted%2BWilt%2BVirus.jpg</filename>
+    <size>
+        <width>1024</width>
+        <height>682</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>77</xmin>
+            <ymin>13</ymin>
+            <xmax>512</xmax>
+            <ymax>468</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>310</xmin>
+            <ymin>87</ymin>
+            <xmax>818</xmax>
+            <ymax>445</ymax>
+        </bndbox>
+    </object>
+</annotation>

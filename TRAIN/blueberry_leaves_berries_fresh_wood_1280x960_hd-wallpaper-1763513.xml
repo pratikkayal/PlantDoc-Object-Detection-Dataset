@@ -1,0 +1,50 @@
+<annotation>
+	<folder> blueberry leaf </folder>
+	<filename>blueberry_leaves_berries_fresh_wood_1280x960_hd-wallpaper-1763513.jpg</filename>
+	<path>/home/davinder/ISDf/ blueberry leaf /blueberry_leaves_berries_fresh_wood_1280x960_hd-wallpaper-1763513.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5616</width>
+		<height>3744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3468</xmin>
+			<ymin>1932</ymin>
+			<xmax>5356</xmax>
+			<ymax>3212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1256</xmin>
+			<ymin>2432</ymin>
+			<xmax>2612</xmax>
+			<ymax>3384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>1444</ymin>
+			<xmax>1840</xmax>
+			<ymax>2300</ymax>
+		</bndbox>
+	</object>
+</annotation>

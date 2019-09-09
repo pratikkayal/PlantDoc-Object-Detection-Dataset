@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>corn-diseases-fig-2-tar-spot.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /corn-diseases-fig-2-tar-spot.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>959</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

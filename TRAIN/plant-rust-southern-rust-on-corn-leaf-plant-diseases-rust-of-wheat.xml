@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>plant-rust-southern-rust-on-corn-leaf-plant-diseases-rust-of-wheat.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /plant-rust-southern-rust-on-corn-leaf-plant-diseases-rust-of-wheat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>482</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>3</ymin>
+			<xmax>542</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

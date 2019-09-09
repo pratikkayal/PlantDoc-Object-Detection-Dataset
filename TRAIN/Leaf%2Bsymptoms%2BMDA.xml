@@ -1,0 +1,49 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>Leaf%2Bsymptoms%2BMDA.jpg</filename>
+    <size>
+        <width>1482</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>768</xmin>
+            <ymin>271</ymin>
+            <xmax>1254</xmax>
+            <ymax>1204</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>452</xmin>
+            <ymin>544</ymin>
+            <xmax>1092</xmax>
+            <ymax>1533</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>49</ymin>
+            <xmax>679</xmax>
+            <ymax>1004</ymax>
+        </bndbox>
+    </object>
+</annotation>

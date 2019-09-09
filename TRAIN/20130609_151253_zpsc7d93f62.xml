@@ -1,0 +1,50 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>20130609_151253_zpsc7d93f62.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /20130609_151253_zpsc7d93f62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>389</ymin>
+			<xmax>386</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>446</ymin>
+			<xmax>601</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>254</ymin>
+			<xmax>903</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

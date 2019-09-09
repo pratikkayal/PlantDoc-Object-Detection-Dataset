@@ -1,0 +1,153 @@
+<annotation>
+    <folder> tomato leaf yellow virus </folder>
+    <filename>534ddf3a932e62dd929a3ac1b29bfa29.jpg</filename>
+    <size>
+        <width>4320</width>
+        <height>3240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1995</xmin>
+            <ymin>2272</ymin>
+            <xmax>2789</xmax>
+            <ymax>3240</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3305</xmin>
+            <ymin>981</ymin>
+            <xmax>4267</xmax>
+            <ymax>1910</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2610</xmin>
+            <ymin>1042</ymin>
+            <xmax>3079</xmax>
+            <ymax>1568</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2927</xmin>
+            <ymin>1127</ymin>
+            <xmax>3525</xmax>
+            <ymax>1643</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>797</xmin>
+            <ymin>73</ymin>
+            <xmax>2009</xmax>
+            <ymax>1031</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1833</xmin>
+            <ymin>493</ymin>
+            <xmax>2852</xmax>
+            <ymax>1172</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1167</xmin>
+            <ymin>1430</ymin>
+            <xmax>1695</xmax>
+            <ymax>2326</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>217</xmin>
+            <ymin>1464</ymin>
+            <xmax>1000</xmax>
+            <ymax>2371</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>222</xmin>
+            <ymin>636</ymin>
+            <xmax>1458</xmax>
+            <ymax>1229</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1833</xmin>
+            <ymin>1327</ymin>
+            <xmax>2653</xmax>
+            <ymax>1936</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2779</xmin>
+            <ymin>1889</ymin>
+            <xmax>3337</xmax>
+            <ymax>3100</ymax>
+        </bndbox>
+    </object>
+</annotation>

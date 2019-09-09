@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>Ontario-Field-Crop-Report_July_27_2017_f2-1024x768.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /Ontario-Field-Crop-Report_July_27_2017_f2-1024x768.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>106</ymin>
+			<xmax>1024</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>

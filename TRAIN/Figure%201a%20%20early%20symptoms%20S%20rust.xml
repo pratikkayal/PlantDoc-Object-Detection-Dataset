@@ -1,0 +1,26 @@
+<annotation>
+	<folder> corn rust leaf </folder>
+	<filename>Figure%201a%20%20early%20symptoms%20S%20rust.jpg</filename>
+	<path>/home/davinder/ISDf/ corn rust leaf /Figure%201a%20%20early%20symptoms%20S%20rust.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Corn rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>6</ymin>
+			<xmax>1192</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder> blueberry leaf </folder>
+	<filename>blueberry-chlorotic-leaves_2.jpg</filename>
+	<path>/home/davinder/ISDf/ blueberry leaf /blueberry-chlorotic-leaves_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blueberry leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>93</ymin>
+			<xmax>361</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

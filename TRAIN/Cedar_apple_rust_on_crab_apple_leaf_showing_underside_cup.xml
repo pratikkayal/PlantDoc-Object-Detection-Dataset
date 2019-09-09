@@ -1,0 +1,38 @@
+<annotation>
+	<folder> apple rust leaf </folder>
+	<filename>Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup.jpg</filename>
+	<path>/home/davinder/ISDf/ apple rust leaf /Cedar_apple_rust_on_crab_apple_leaf_showing_underside_cup.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>199</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>29</ymin>
+			<xmax>291</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple rust leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>124</ymin>
+			<xmax>115</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

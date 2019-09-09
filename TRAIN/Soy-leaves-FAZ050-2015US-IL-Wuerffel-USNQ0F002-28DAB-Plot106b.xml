@@ -1,0 +1,50 @@
+<annotation>
+	<folder> soyabean leaf </folder>
+	<filename>Soy-leaves-FAZ050-2015US-IL-Wuerffel-USNQ0F002-28DAB-Plot106b.jpg</filename>
+	<path>/media/master/Data/Sem6/ISDl/Pratik/ soyabean leaf /Soy-leaves-FAZ050-2015US-IL-Wuerffel-USNQ0F002-28DAB-Plot106b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2081</xmin>
+			<ymin>1590</ymin>
+			<xmax>3184</xmax>
+			<ymax>3272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3674</xmin>
+			<ymin>1558</ymin>
+			<xmax>4727</xmax>
+			<ymax>3215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Soyabean leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>1525</ymin>
+			<xmax>1666</xmax>
+			<ymax>3361</ymax>
+		</bndbox>
+	</object>
+</annotation>

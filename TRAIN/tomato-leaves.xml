@@ -1,0 +1,62 @@
+<annotation>
+	<folder> tomato leaf </folder>
+	<filename>tomato-leaves.jpg</filename>
+	<path>/home/sohamp/Desktop/done/ tomato leaf /tomato-leaves.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2083</xmin>
+			<ymin>824</ymin>
+			<xmax>2660</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>1062</ymin>
+			<xmax>1774</xmax>
+			<ymax>2133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1545</xmin>
+			<ymin>305</ymin>
+			<xmax>2283</xmax>
+			<ymax>1062</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tomato leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3098</xmin>
+			<ymin>886</ymin>
+			<xmax>3793</xmax>
+			<ymax>2053</ymax>
+		</bndbox>
+	</object>
+</annotation>

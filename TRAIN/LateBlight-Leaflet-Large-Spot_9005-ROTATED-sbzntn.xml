@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>LateBlight-Leaflet-Large-Spot_9005-ROTATED-sbzntn.jpg</filename>
+    <size>
+        <width>1704</width>
+        <height>2272</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>12</ymin>
+            <xmax>1668</xmax>
+            <ymax>2259</ymax>
+        </bndbox>
+    </object>
+</annotation>

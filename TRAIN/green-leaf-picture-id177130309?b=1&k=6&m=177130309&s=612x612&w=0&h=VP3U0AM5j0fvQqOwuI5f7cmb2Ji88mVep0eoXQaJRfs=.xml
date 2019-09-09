@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>green-leaf-picture-id177130309?b=1&amp;k=6&amp;m=177130309&amp;s=612x612&amp;w=0&amp;h=VP3U0AM5j0fvQqOwuI5f7cmb2Ji88mVep0eoXQaJRfs=.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /green-leaf-picture-id177130309?b=1&amp;k=6&amp;m=177130309&amp;s=612x612&amp;w=0&amp;h=VP3U0AM5j0fvQqOwuI5f7cmb2Ji88mVep0eoXQaJRfs=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>21</ymin>
+			<xmax>612</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf bacterial spot </folder>
+    <filename>patarea-bacteriana-frunzelor-pseudomonas-syringae-maculicola-31_5_2.jpg</filename>
+    <size>
+        <width>419</width>
+        <height>625</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>16</ymin>
+            <xmax>418</xmax>
+            <ymax>603</ymax>
+        </bndbox>
+    </object>
+</annotation>

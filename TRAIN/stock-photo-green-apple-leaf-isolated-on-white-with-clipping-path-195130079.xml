@@ -1,0 +1,26 @@
+<annotation>
+	<folder> apple leaf </folder>
+	<filename>stock-photo-green-apple-leaf-isolated-on-white-with-clipping-path-195130079.jpg</filename>
+	<path>/home/davinder/ISDf/ apple leaf /stock-photo-green-apple-leaf-isolated-on-white-with-clipping-path-195130079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>27</ymin>
+			<xmax>435</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

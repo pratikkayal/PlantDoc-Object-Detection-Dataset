@@ -1,0 +1,23 @@
+<annotation>
+    <folder> tomato leaf late blight </folder>
+    <filename>stock-photo-tomato-plants-infected-by-the-late-blight-plant-pathogen-phytophthora-infestans-macro-539209615.jpg</filename>
+    <size>
+        <width>450</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>77</xmin>
+            <ymin>89</ymin>
+            <xmax>395</xmax>
+            <ymax>238</ymax>
+        </bndbox>
+    </object>
+</annotation>

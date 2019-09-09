@@ -1,0 +1,26 @@
+<annotation>
+	<folder> Apple Scab Leaf </folder>
+	<filename>apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-aw08hw.jpg</filename>
+	<path>/home/davinder/ISDf/ Apple Scab Leaf /apple-scab-venturia-inaequalis-germinated-from-a-spore-shower-on-an-aw08hw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>561</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple Scab Leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>67</ymin>
+			<xmax>561</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
